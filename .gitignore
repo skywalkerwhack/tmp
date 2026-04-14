@@ -4,7 +4,5 @@
 # but .gitignore
 !.gitignore
 
-# 放行某些文件或目录
-!README.md
-!src/
-!src/**
+# some patterns here
+!tmp.txt
