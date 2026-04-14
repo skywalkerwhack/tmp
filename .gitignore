@@ -1,0 +1,10 @@
+# ignore all
+*
+
+# but .gitignore
+!.gitignore
+
+# 放行某些文件或目录
+!README.md
+!src/
+!src/**
