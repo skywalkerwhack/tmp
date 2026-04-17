@@ -105,7 +105,6 @@ https://en.m.wikipedia.org/wiki/Paris_syndrome#:~:text=Paris%20syndrome%20is%20a
 https://en.wikipedia.org/wiki/Darknet#Active
 https://en.wikipedia.org/wiki/Program_optimization#When_to_optimize
 https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond's_17_Unix_Rules
-https://en.wikipedia.org/wiki/Year_2038_problem
 https://en.wikiquote.org/wiki/Richard_Stallman
 https://endwalker.com/archive.html
 https://envs.net/
