@@ -2,13 +2,11 @@
 https://100daystooffload.com/
 https://100devsfollowalong.netlify.app/
 https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
-https://addons.mozilla.org/en-US/firefox/addon/slooshysearch/
 https://adventofcode.com/
 https://ahwx.org/blog
 https://alieninterfaces.com/
 https://alphacode.deepmind.com/
 https://anilist.co/anime/99426/Sora-yori-mo-Tooi-Basho/
-https://anime-girls-holding-programming-books.netlify.app/
 https://ankt.prose.sh/catharsis
 https://anonfiles.com/
 https://anonymous.4open.science/
@@ -67,7 +65,7 @@ https://codeberg.org/simpleweb/porninvidious
 https://codepen.io/keithwyland/pen/yLyLNz
 https://cofounder.quest/
 https://coincards.com
-https://copy.sh/
+
 https://copy.sh/v86/
 https://cpu.land
 https://crackstation.net/
