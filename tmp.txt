@@ -1,5 +1,4 @@
 
-https://0x0.st/HNt7.sh
 https://100daystooffload.com/
 https://100devsfollowalong.netlify.app/
 https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
@@ -8,7 +7,6 @@ https://adventofcode.com/
 https://ahwx.org/blog
 https://alieninterfaces.com/
 https://alphacode.deepmind.com/
-https://anideafora.website/
 https://anilist.co/anime/99426/Sora-yori-mo-Tooi-Basho/
 https://anime-girls-holding-programming-books.netlify.app/
 https://ankt.prose.sh/catharsis
