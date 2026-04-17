@@ -111,7 +111,6 @@ https://espl1000.org/
 https://eu-amsterdam.apranet.eu.org
 https://europa.nasa.gov/message-in-a-bottle/sign-on/
 https://everynoise.com/
-https://example.com
 https://explainshell.com
 https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/
 https://f0ck.me/
